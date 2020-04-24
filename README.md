@@ -33,7 +33,7 @@ Alternatively, upload the zip files to an online editor such as Overleaf.com. To
 We will use the online editor Overleaf for demonstrations in the session.
   
 ## Templates for example posters: 
-*alternative_LaTeX_templates.zip* contains the LaTeX source to render some of the the example posters shown in the session. 
+*example_templates.zip* contains the LaTeX source to render some of the the example posters shown in the session. 
 
 ## Links to other latex templates: 
 Other templates can be found at: 
