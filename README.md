@@ -18,26 +18,40 @@ The point is to give you a minimal working template and materials that you can l
 # Session resources
 
 ## Session slides 
-Slides for session: 
+A pdf of the slides for this session are stored in *ds_poster_slides.zip*. Please download before the session if possible.
+
 
 ## Posters for discussion segment
-Poster pdfs to be critiqued in first hour please download before the session if possible.
+Poster pdfs to be critiqued in first hour are stored in *example_posters.zip*. Please download before the session if possible.
 
 
 ## Poster template for interactive segments (second hour): 
-Please download and unzip/extract to a known location on your device before the session.
-Check that these will open and compile with your preferred LaTeX editor or upload to an online editor such as Overleaf.com.
-We will use the online editor Overleaf in the session.
+Please download and unzip/extract *practical_session/template.zip* and *practical_session/template_empty.zip* to a known location on your device before the session. Check that these will *main.tex* within each of these folders will open and compile with your preferred LaTeX editor.
+
+Alternatively, upload the zip files to an online editor such as Overleaf.com. To do this create an Overleaf account > new project > upload project > upload template.zip and template_empty.zip. 
+
+We will use the online editor Overleaf for demonstrations in the session.
   
 ## Templates for example posters: 
-LaTeX poster templates for the example posters shown in the session
+*alternative_LaTeX_templates.zip* contains the LaTeX source to render some of the the example posters shown in the session. 
 
 ## Links to other latex templates: 
-Other well-documented templates
-## Links to Rmarkdown templates: 
-  Some of you might be experiences in using markdown to produce reports. When combined with appropriate css markdown can also be used to produce posters. Links to some templates for those who are so inclined are given here. We do not provide guidance on how to use these because of the limited time available in the session. 
-## Links to powerpoint template: 
-  If you really don't want to typeset your poster a minimal powerpoint template is provided. Photoshop or open source alternatives (InkScape, Krita, GIMP) can also be used to make effective academic posters.
+Other templates can be found at: 
+  - [overleaf.com](https://www.overleaf.com/gallery/tagged/poster)
+  - [latextemplates.com](https://www.latextemplates.com/cat/conference-posters)
+  - [This list on the LaTeX website](https://latex.org/forum/viewtopic.php?t=26168) 
+  - [Github](https://github.com/search?p=3&q=latex+poster&type=Repositories) 
 
-# Not for student 
-source for session slides
+The overleaf and LaTeX examples templates are usually well documented, but more variety can be found on github for example. In all cases look for good commenting and ideally a README file, which will explain how to interact with the template.
+
+
+## Links to Rmarkdown templates: 
+  Some of you might be experienced in using markdown to produce reports. There are templates for this too! When combined with appropriate css markdown can also be used to produce beautiful posters. Links to some templates for those who are so inclined are given here. We do not provide guidance on how to use these.  Again, look for good commenting and a README.
+  
+   - [Clean example poster template](https://www.overleaf.com/latex/examples/writing-posters-with-markdown/jtbgmmgqrqmh)
+   - [List of well documented templates](https://gist.github.com/Pakillo/4854e5d760351206084f6be8abe476b2)
+   - ['drposter' package for  making posters in R](https://github.com/bbucior/drposter)
+  
+## Links to powerpoint template: 
+ If you really don't want to typeset your poster a minimal powerpoint template is provided on moodle. Photoshop or open source alternatives ([InkScape](https://inkscape.org/), [Krita](https://krita.org/en/), [GIMP](https://www.gimp.org/)) can also be used to make effective academic posters. Google e.g. "Inkscape poster template".  
+
