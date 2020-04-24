@@ -37,10 +37,10 @@ We will use the online editor Overleaf for demonstrations in the session.
 
 ## Links to other latex templates: 
 Other templates can be found at: 
-[overleaf.com](https://www.overleaf.com/gallery/tagged/poster)
-[latextemplates.com](https://www.latextemplates.com/cat/conference-posters)
-[This list on the LaTeX website](https://latex.org/forum/viewtopic.php?t=26168) 
-[Github](https://github.com/search?p=3&q=latex+poster&type=Repositories) 
+  - [overleaf.com](https://www.overleaf.com/gallery/tagged/poster)
+  - [latextemplates.com](https://www.latextemplates.com/cat/conference-posters)
+  - [This list on the LaTeX website](https://latex.org/forum/viewtopic.php?t=26168) 
+  - [Github](https://github.com/search?p=3&q=latex+poster&type=Repositories) 
 
 The overleaf and LaTeX examples templates are usually well documented, but more variety can be found on github for example. In all cases look for good commenting and ideally a README file, which will explain how to interact with the template.
 
@@ -48,9 +48,9 @@ The overleaf and LaTeX examples templates are usually well documented, but more 
 ## Links to Rmarkdown templates: 
   Some of you might be experiences in using markdown to produce reports. When combined with appropriate css markdown can also be used to produce posters. Links to some templates for those who are so inclined are given here. We do not provide guidance on how to use these because of the limited time available in the session.  
   
-  [Clean example poster template](https://www.overleaf.com/latex/examples/writing-posters-with-markdown/jtbgmmgqrqmh)
-  [List of well documented templates](https://gist.github.com/Pakillo/4854e5d760351206084f6be8abe476b2)
-  ['drposter' package for  making posters in R](https://github.com/bbucior/drposter)
+    - [Clean example poster template](https://www.overleaf.com/latex/examples/writing-posters-with-markdown/jtbgmmgqrqmh)
+    - [List of well documented templates](https://gist.github.com/Pakillo/4854e5d760351206084f6be8abe476b2)
+    - ['drposter' package for  making posters in R](https://github.com/bbucior/drposter)
   
 ## Links to powerpoint template: 
   If you really don't want to typeset your poster a minimal powerpoint template is provided on moodle. Photoshop or open source alternatives ([https://inkscape.org/](InkScape), [https://krita.org/en/](Krita), [https://www.gimp.org/](GIMP)) can also be used to make effective academic posters. Google e.g. "Inkscape poster template".  
