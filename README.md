@@ -46,7 +46,7 @@ The overleaf and LaTeX examples templates are usually well documented, but more 
 
 
 ## Links to Rmarkdown templates: 
-  Some of you might be experiences in using markdown to produce reports. When combined with appropriate css markdown can also be used to produce posters. Links to some templates for those who are so inclined are given here. We do not provide guidance on how to use these because of the limited time available in the session.  
+  Some of you might be experienced in using markdown to produce reports. There are templates for this too! When combined with appropriate css markdown can also be used to produce beautiful posters. Links to some templates for those who are so inclined are given here. We do not provide guidance on how to use these.  Again, look for good commenting and a README.
   
    - [Clean example poster template](https://www.overleaf.com/latex/examples/writing-posters-with-markdown/jtbgmmgqrqmh)
    - [List of well documented templates](https://gist.github.com/Pakillo/4854e5d760351206084f6be8abe476b2)
