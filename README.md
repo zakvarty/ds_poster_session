@@ -4,12 +4,12 @@ Materials for MSc Data Science session on making academic posters
 # Session aims
 The aims of this session are
  - Hour 1: Poster critique:
-    - what is an academic poster session?
-    - what makes a a good academic poster?
- _ Hour 2: Poster construction
-    - How to use LaTeX templates to create and academic poster. 
-    - Editing your template 
-    - Filing your template
+     - what is an academic poster session?
+     - what makes a a good academic poster?
+ - Hour 2: Poster construction
+     - How to use LaTeX templates to create and academic poster. 
+     - Editing your template 
+     - Filing your template
 
 This is a lot of material to cover in two hours, don't worry if it doesn't all make sense right away. 
 You will forget most of it before you have to make your poster anyway. 
