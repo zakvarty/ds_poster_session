@@ -26,7 +26,11 @@ Poster pdfs to be critiqued in first hour please download before the session if 
 
 ## Poster template for interactive segments (second hour): 
 Please download and unzip/extract to a known location on your device before the session.
-Check that these will open and compile with your preferred LaTeX editor or upload to an online editor such as Overleaf.com.
+Check that these will open and compile with your preferred LaTeX editor. 
+Alternatively, or upload to an online editor such as Overleaf.com.
+
+To do this create an Overleaf account > new project > upload project > upload template.zip and template_empty.zip
+
 We will use the online editor Overleaf in the session.
   
 ## Templates for example posters: 
