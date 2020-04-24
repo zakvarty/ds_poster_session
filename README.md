@@ -26,7 +26,7 @@ Poster pdfs to be critiqued in first hour are stored in *example_posters.zip*. P
 
 
 ## Poster template for interactive segments (second hour): 
-Please download and unzip/extract *practical_session/template.zip* and *practical_session/template_empty.zip* to a known location on your device before the session. Check that these will *main.tex* within each of these folders will open and compile with your preferred LaTeX editor.
+Please download and unzip *practical_session/template.zip* and *practical_session/template_empty.zip* to a known location on your device before the session. Check that the file *main.tex* within each of these folders will open and compile with your preferred LaTeX editor.
 
 Alternatively, upload the zip files to an online editor such as Overleaf.com. To do this create an Overleaf account > new project > upload project > upload template.zip and template_empty.zip. 
 
